@@ -2,7 +2,8 @@
 
 This repository contains Go language learning exercises and code samples, organized by topic and increasing complexity. Each directory covers a specific concept in Go programming.
 
-## Directories (01 to 12)
+
+## Directories (01 to 15)
 
 - **01hello**: Basic Hello World program
 - **02variable**: Working with variables
@@ -16,6 +17,9 @@ This repository contains Go language learning exercises and code samples, organi
 - **10struct**: Structs and custom types
 - **11controlflow**: Control flow (if, for, switch)
 - **12switchcase**: Switch-case statements
+- **13loop**: Loops in Go (for, while-like, range)
+- **14function**: Functions in Go
+- **15method**: Methods and receivers in Go
 
 ## How to Run
 
