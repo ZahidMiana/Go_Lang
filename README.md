@@ -3,7 +3,7 @@
 This repository contains Go language learning exercises and code samples, organized by topic and increasing complexity. Each directory covers a specific concept in Go programming.
 
 
-## Directories (01 to 15)
+## Directories (01 to 21)
 
 - **01hello**: Basic Hello World program
 - **02variable**: Working with variables
@@ -20,6 +20,12 @@ This repository contains Go language learning exercises and code samples, organi
 - **13loop**: Loops in Go (for, while-like, range)
 - **14function**: Functions in Go
 - **15method**: Methods and receivers in Go
+- **16defer**: Defer statements and cleanup
+- **17files**: File operations and I/O
+- **18webrequest**: Making HTTP web requests
+- **19handleurl**: URL handling and parsing
+- **20server**: Creating HTTP servers
+- **21getrequest**: GET request implementations
 
 ## How to Run
 
